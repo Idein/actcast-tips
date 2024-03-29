@@ -59,21 +59,21 @@ function doPost(e) {
 
 **3. デプロイ**
     
-    GAS記述内容をデプロイします。
+   GAS記述内容をデプロイします。
     
-    「デプロイ」を選択し、種類を「ウェブアプリ」に設定します。　
+   「デプロイ」を選択し、種類を「ウェブアプリ」に設定します。　
     
-    次のユーザーとして実行は、自分のアカウントを設定します。
+   次のユーザーとして実行は、自分のアカウントを設定します。
     
-    アクセスできるユーザーは「全員」。許可設定などがでてきたら許可します。
+   アクセスできるユーザーは「全員」。許可設定などがでてきたら許可します。
     
-    ![untitled.png](https://github.com/Idein/actcast-tips/assets/106148688/06bd2355-d342-4121-81eb-b857983075a5)
+   ![untitled.png](https://github.com/Idein/actcast-tips/assets/106148688/06bd2355-d342-4121-81eb-b857983075a5)
     
-    「デプロイ」を押すと、URLが生成されるのでコピーします。
+   「デプロイ」を押すと、URLが生成されるのでコピーします。
     
-    ![untitled.png](https://github.com/Idein/actcast-tips/assets/106148688/bb21e965-0b8a-4f97-94c6-8ba533d57178)
+   ![untitled.png](https://github.com/Idein/actcast-tips/assets/106148688/bb21e965-0b8a-4f97-94c6-8ba533d57178)
     
-    スプシ側の設定は以上です。
+   スプシ側の設定は以上です。
     
   ### Cast設定
 
